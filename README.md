@@ -41,7 +41,10 @@ demo:可以参考babybluetoothSwiftProject路径下的工程
 1：目前的Babybluetooth-swift 是基于Babybluetooth 0.7.0 改造
 2：Babybluetooth-swift 和Babybluetooth 在目前的兼容版本上，只有BabyBluetooth.m文件做了改动.
 
+##  后期计划和更新
 
+-  1:支持swift pod
+-  2:改成完全基于swift的实现
 
 
 

@@ -46,6 +46,8 @@ demo:可以参考babybluetoothSwiftProject路径下的工程
 -  1:支持swift pod
 -  2:改成完全基于swift的实现
 
+##  欢迎大家多多star
+
 
 
  

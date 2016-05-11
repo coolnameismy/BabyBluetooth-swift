@@ -8,7 +8,7 @@
 
 ## 此版本的重要说明：
 
-**因为Babybluetooth的串行函数方法是用block实现的，对swift支持不好，所以，目前的Babybluetooth-swift通过改在了Babybluetooth的方法调用，实现了对swift的兼容模式，并在计划在今后完全用swift实现Babybluetooth的全部功能**
+**因为Babybluetooth的串行函数方法是用block实现的，对swift支持不好**，所以，目前的Babybluetooth-swift通过改在了Babybluetooth的方法调用，实现了对swift的兼容模式，并在计划在今后完全用swift实现Babybluetooth的全部功能
 
 
 ## 如何使用Babybluetooth
@@ -19,7 +19,7 @@
 
 demo:可以参考babybluetoothSwiftProject路径下的工程
 
-步骤1：把Class的源代码拖入项目中
+步骤1：把ClASSES/bridging-for-swift路径下的源代码拖入项目中
 
 步骤2：建立bridging文件,在文件中引入Babybluetooth头文件
 
